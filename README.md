@@ -12,7 +12,7 @@ List of Internships at IIT and NIT 2025
 | **IIT Indore**          | March 31, 2025       | [IIT Indore Summer Internship 2025](https://www.iiti.ac.in/page/summer-internship-2025-for-ug-students)   |
 | **IIT (ISM) Dhanbad**   | NA                   | [IIT (ISM) Dhanbad SRIP](https://people.iitism.ac.in/~research/SRIP.php)                                  |
 | **IIT Jammu**           | April 17, 2025                   | [IIT Jammu RISE-UP](https://iitjammu.ac.in/post/rise-up)                                                  |
-| **BITS Pilani Goa**           | March 22, 2025                   | [BITS Pilani Goa]([https://iitjammu.ac.in/post/rise-up](https://www.bits-pilani.ac.in/goa/bgsrp/))    |
+| **BITS Pilani Goa**           | March 22, 2025                   | [BITS Pilani Goa](https://www.bits-pilani.ac.in/goa/bgsrp/)    |
 | **IIIT Allahabad**                                  | May 11, 2025         | [IIIT Allahabad Internship and Credit Export Program 2025](https://internship.iiita.ac.in/)               |
 | **IIIT Vadodara**                                   | April 1, 2025        | [IIIT Vadodara Research Internship](https://iiitvadodara.ac.in/internship.php)                            |
 | **inStem (Institute for Stem Cell Science and Regenerative Medicine)** | NA                   | [inStem SURF Program](https://surf.instem.res.in/)                                                        |
